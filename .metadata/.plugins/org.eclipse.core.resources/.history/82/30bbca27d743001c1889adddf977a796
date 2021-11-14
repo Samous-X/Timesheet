@@ -1,0 +1,14 @@
+package tn.esprit.spring;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class testih {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
